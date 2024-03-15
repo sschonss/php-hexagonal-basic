@@ -1,0 +1,17 @@
+{
+    "name": "sschonss/php-hexagonal-basic",
+    "description": "Studies About Hexagonal Architecture",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Sschonss\\PhpHexagonalBasic\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sschonss",
+            "email": "sschonss@example.com"
+        }
+    ],
+    "require": {}
+}
